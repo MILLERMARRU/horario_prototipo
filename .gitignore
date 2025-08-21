@@ -1,0 +1,11 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.env*
+.DS_Store
